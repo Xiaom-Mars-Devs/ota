@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1756027048",
-      "filename": "lineage-22.2-20250824-UNOFFICIAL-gms-fuxi.zip",
-      "id": "ead0bf710a16a8b2ab1f4e717e1f77ed8a0e7ae315f6cd89cd0a7094618979a0",
+      "datetime": "1756217421",
+      "filename": "lineage-22.2-20250826-UNOFFICIAL-gms-fuxi.zip",
+      "id": "b8cac882db5884b873f1d68aa799210960f21ac25917d0e954f3c398143f4b46",
       "romtype": "UNOFFICIAL",
-      "size": 2953347259,
-      "url": "https://sourceforge.net/projects/fuxi-release/files/LineageOS/20250824/lineage-22.2-20250824-UNOFFICIAL-gms-fuxi.zip/download",
+      "size": 2953342691,
+      "url": "https://sourceforge.net/projects/fuxi-release/files/LineageOS/20250826/lineage-22.2-20250826-UNOFFICIAL-gms-fuxi.zip/download",
       "version": "22.2"
     }
   ]
