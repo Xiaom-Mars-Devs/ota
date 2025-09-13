@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1754063480",
-      "filename": "lineage-22.2-20250801-UNOFFICIAL-gms-star.zip",
-      "id": "15d18236eae966615853589d45d2f17591c7699a62ac4b98e4f985cc8cd25638",
+      "datetime": "1757748710",
+      "filename": "lineage-22.2-20250913-UNOFFICIAL-gms-star.zip",
+      "id": "81c99a16961043f67b9311c49ef37190878ff2cc4bea47006c180fc9a99b8abe",
       "romtype": "UNOFFICIAL",
-      "size": 2442875867,
-      "url": "https://sourceforge.net/projects/star-release/files/LineageOS/20250801/lineage-22.2-20250801-UNOFFICIAL-gms-star.zip/download",
+      "size": 2439861435,
+      "url": "https://sourceforge.net/projects/star-release/files/LineageOS/20250913/lineage-22.2-20250913-UNOFFICIAL-gms-star.zip/download",
       "version": "22.2"
     }
   ]
